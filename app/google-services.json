@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532994490102",
+    "project_id": "chat-b8110",
+    "storage_bucket": "chat-b8110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532994490102:android:3a9d9e233f3a0e2ef136d7",
+        "android_client_info": {
+          "package_name": "com.jimmypiedrahita.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YGfbpppuq_USCuaJ96IZUnKYQJQ8dOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

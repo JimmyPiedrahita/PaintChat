@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PaintChat</string>
+    <string name="name_chat">name</string>
+    <string name="contentDescriptionBtnSend">Button to send the drawing</string>
+    <string name="contentDescriptionBtnUp">Button to expand tools</string>
+    <string name="contentDescriptionBtnDown">Button to hide canvas</string>
+    <string name="contentDescriptionBtnColorPicker">Button to choose pencil color</string>
+    <string name="contentDescriptionBtnEraser">Button to select the draft</string>
+    <string name="contentDescriptionBtnColorBack">Button to change the background color</string>
+
+
+
+    <!--Hint-->
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="re_password_hint">Repeat password</string>
+    <!--Text button-->
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="add">Add</string>
+
+    <!--Text button-->
+    <string name="descriptionLogo">This is the image of the logo PaintChat</string>
+    <string name="descriptionCloseSession"> To securely log out of the current session on the device</string>
+    <string name="descriptionAdd"> To add a new contact to your address book</string>
+
+    <!--label-->
+    <string name="or">OR</string>
+</resources>

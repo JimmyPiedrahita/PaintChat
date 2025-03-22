@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:id="@+id/card_chat"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/transparent"
+    android:layout_marginTop="5dp"
+    android:outlineSpotShadowColor="@color/transparent">
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:orientation="horizontal"
+        android:background="@drawable/rounded_chat_transmitter"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_gravity="end">
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imageChat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:shapeAppearanceOverlay="@style/rounded_corners"
+            tools:srcCompat="@tools:sample/avatars"
+            android:layout_margin="5dp"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
